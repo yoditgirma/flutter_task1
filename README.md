@@ -1,6 +1,6 @@
 # hello_flutter(task3)
 
-a widgegt tree for the hello_flutter app
+A widget tree for the hello_flutter app
 
 ```text
 MyApp
